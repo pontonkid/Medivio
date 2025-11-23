@@ -1,0 +1,7 @@
+altair
+pandas
+streamlit
+google-generativeai
+pillow
+streamlit_lottie
+requests
