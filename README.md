@@ -1,10 +1,4 @@
 # Medivio
-Here is a **clean, simple, professional README** for your project **Medivio**.
-No fancy wording, no AI tone — just clear and human.
-
----
-
-# Medivio
 
 Medivio is an AI-powered health assistant that helps people understand medical data in a simple way. It takes inputs like X-rays, MRI scans, lab results, and doctor’s notes, and gives clear explanations that anyone can follow. The goal is to make medical information easier and less stressful for users.
 
